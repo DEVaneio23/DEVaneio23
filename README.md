@@ -6,10 +6,6 @@
 - 📍 Fortaleza–CE | 20 anos  
 - 🚀 Em busca da minha primeira oportunidade como dev
 
-[![Views](https://komarev.com/ghpvc/?username=<DEVaneio23>&color=blue&style=flat-square)](https://github.com/<seu-usuario>)
-[![Followers](https://img.shields.io/github/followers/<DEVaneio23>?label=Seguidores&style=flat-square)](https://github.com/<seu-usuario>?tab=followers)
-[![Stars](https://img.shields.io/github/stars/<DEVaneio23>?label=Stars&style=flat-square)](https://github.com/<seu-usuario>?tab=repositories)
-
 ---
 
 ### 💡 Sobre mim
@@ -44,10 +40,10 @@ Gosto de resolver problemas reais com código simples, organizado e acessível. 
 ---
 
 ### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<seu-usuario>&show_icons=true&theme=tokyonight&hide_title=true)
-![Streak](https://streak-stats.demolab.com?user=<seu-usuario>&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<seu-usuario>&layout=compact&langs_count=8&theme=tokyonight)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=<seu-usuario>&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<DEVaneio23>&show_icons=true&theme=tokyonight&hide_title=true)
+![Streak](https://streak-stats.demolab.com?user=<DEVaneio23>&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<DEVaneio23>&layout=compact&langs_count=8&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=<DEVaneio23>&theme=tokyonight)
 
 ---
 
