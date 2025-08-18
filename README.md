@@ -6,9 +6,9 @@
 - 📍 Fortaleza–CE | 20 anos  
 - 🚀 Em busca da minha primeira oportunidade como dev
 
-[![Views](https://komarev.com/ghpvc/?username=<seu-usuario>&color=blue&style=flat-square)](https://github.com/<seu-usuario>)
-[![Followers](https://img.shields.io/github/followers/<seu-usuario>?label=Seguidores&style=flat-square)](https://github.com/<seu-usuario>?tab=followers)
-[![Stars](https://img.shields.io/github/stars/<seu-usuario>?label=Stars&style=flat-square)](https://github.com/<seu-usuario>?tab=repositories)
+[![Views](https://komarev.com/ghpvc/?username=<DEVaneio23>&color=blue&style=flat-square)](https://github.com/<seu-usuario>)
+[![Followers](https://img.shields.io/github/followers/<DEVaneio23>?label=Seguidores&style=flat-square)](https://github.com/<seu-usuario>?tab=followers)
+[![Stars](https://img.shields.io/github/stars/<DEVaneio23>?label=Stars&style=flat-square)](https://github.com/<seu-usuario>?tab=repositories)
 
 ---
 
