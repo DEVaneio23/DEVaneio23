@@ -25,25 +25,20 @@ Gosto de resolver problemas reais com código simples, organizado e acessível. 
 - **Sistema de Agendamento de Bancas – PPGD FADISP**  
   Formulários dinâmicos com validações robustas (CPF, e-mail, regras de banca), upload de PDF, dashboard e responsividade.  
   - **Stack**: HTML, CSS, JS (ES6+, módulos)  
-  - [Ver pasta](projetos/Agendamento)
 
 - **Dashboard Financeiro (PWA)**  
   Gerenciador financeiro com funcionamento offline, instalação como app e UI moderna (glassmorphism).  
   - **Stack**: HTML, CSS, JS, Service Worker, Manifest  
-  - [Ver pasta](projetos/finance)
 
 - **RangeClub Demo – Sistema de Vendas**  
   Gestão de vendas, estoque, filiados e relatórios, com API em Node e PostgreSQL (Supabase).  
   - **Stack**: HTML, CSS, JS, Node.js, Express, Supabase/PostgreSQL  
-  - [Ver pasta](projetos/clube-tiro-vendas)
 
 ---
 
 ### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<DEVaneio23>&show_icons=true&theme=tokyonight&hide_title=true)
 ![Streak](https://streak-stats.demolab.com?user=<DEVaneio23>&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<DEVaneio23>&layout=compact&langs_count=8&theme=tokyonight)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=<DEVaneio23>&theme=tokyonight)
 
 ---
 
