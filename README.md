@@ -38,7 +38,6 @@ Gosto de resolver problemas reais com código simples, organizado e acessível. 
 
 ### 📊 Estatísticas
 ![Streak](https://streak-stats.demolab.com?user=<DEVaneio23>&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<DEVaneio23>&layout=compact&langs_count=8&theme=tokyonight)
 
 ---
 
