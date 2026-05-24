@@ -2,8 +2,8 @@
 
 - 🎓 Estudante de Engenharia de Telecomunicações no IFCE  
 - 👨‍🏫 Professor de Programação e Robótica na SuperGeeks  
-- 💻 Desenvolvedor focado em Frontend, caminhando para Full Stack  
-- 📍 Fortaleza–CE | 20 anos  
+- 💻 Desenvolvedor Full Stack  
+- 📍 Fortaleza–CE | 21 anos  
 - 🚀 Em busca da minha primeira oportunidade como dev
 
 ---
